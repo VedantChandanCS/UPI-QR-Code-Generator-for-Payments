@@ -1,5 +1,4 @@
 
----
 
 ## **UPI QR Code Generator for Payments 💳📱**
 
